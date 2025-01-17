@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript related to implicit type conversion during comparisons. VBScript's flexible typing system can lead to unexpected results if not handled carefully.  The `bug.vbs` file contains code exhibiting this issue. The `bugSolution.vbs` file provides a corrected version with explicit type checking.
